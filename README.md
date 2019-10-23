@@ -1,2 +1,2 @@
 # exoGroupeGit
-Exo de groupe
+Exo de groupe : votre code ci-dessous
