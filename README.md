@@ -1,4 +1,8 @@
 # exoGroupeGit
+
+#### An exercise meant to practice Git as a group and use some of Eclipse IDE's specific functionalities for GIT ####
+
+
 Exo de groupe : votre code ci-dessous
 
 ##partie laetitia
